@@ -1,0 +1,10 @@
+* floating-point-contractions
+
+Numerically stable contractions (expm1 and friends).
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ruricolist/floating-point-contractions.git   |
+| commit  | dc333fb  |
+| systems | floating-point-contractions |
+|---------+-------------------------------------------|
+
